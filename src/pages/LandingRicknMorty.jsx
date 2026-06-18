@@ -30,9 +30,9 @@ export default function LandingRicknMorty() {
 
     return (
         <main className="min-h-screen bg-orange-100 p-10">
-            <h1 className="text-4xl font-bold text-center mb-10">
+            <div className="text-4xl font-bold text-center mb-10">
                 Character Rick and Morty
-            </h1>
+            </div>
 
             <input
                 type="text"
